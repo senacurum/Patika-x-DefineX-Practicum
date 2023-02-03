@@ -30,7 +30,7 @@ The following methods were written from a service class:
 ```sh
 Output of project is :
 ```
-![](C:/Users/senan/Desktop/output.jpg)
+https://github.com/github/{Patika-x-DefineX-Practicum}/blob/origin/output.jpg
 
 
 
