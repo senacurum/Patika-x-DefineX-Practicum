@@ -30,7 +30,8 @@ The following methods were written from a service class:
 ```sh
 Output of project is :
 ```
-https://github.com/github/{Patika-x-DefineX-Practicum}/blob/origin/output.jpg
+![output](https://user-images.githubusercontent.com/46262318/216672564-3c094323-629f-4383-92a1-ec3ed44c2865.jpg)
+
 
 
 
