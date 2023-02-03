@@ -1,5 +1,4 @@
 # Home Type Application
-Requirements:
 
 
 In this project I created 3 types of buildings:
